@@ -54,9 +54,15 @@ gcc -o robot_car main.c bluetooth.c sensors.c motors.c navigator.c -lwiringPi -l
 python camera_streaming.py
 ```
 ## デモ映像
+- マニュアルモードおよびカメラ確認<br>
+- https://github.com/user-attachments/assets/cd7c9f53-740d-4a64-9b34-c7d0122c28df
 
-[https://github.com/yohan020/robot_vacuum/blob/master/demo/%EC%88%98%EB%8F%99%EB%AA%A8%EB%93%9C%20%EB%B0%8F%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EC%8B%9C%EC%97%B0.mp4]
-(https://github.com/user-attachments/assets/58a82b56-4a8e-4690-bfa6-d67cf72e7037)
+- 吸引デモンストレーション<br>
+- https://github.com/user-attachments/assets/b134cdee-bcc7-4642-bd0e-ef382de86239
+
+- オートモードデモンストレーション<br>
+- https://github.com/user-attachments/assets/aa6e0d9a-5a15-411a-b899-934ac97f823c
+
 
 
 ## 課題と解決策 / 限界
